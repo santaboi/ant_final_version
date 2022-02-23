@@ -1,5 +1,5 @@
 # parallel programming(HW6 ant algorithm)
-
+ 
 ## Algorithm Comprehension
 * https://www.youtube.com/watch?v=783ZtAF4j5g
 Ant optimized algorithm referenced
